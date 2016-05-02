@@ -1,0 +1,82 @@
+State,Agency Name,Race,Religion,Sexual Orientation,Ethnicity,Disability,Gender,1st quarter,2nd quarter,3rd quarter,4th quarter,Population,State Code
+USA,USA,815,438,492,267,46,30,1532,2216,2358,1833,47533310,USA
+Georgia,Atlanta,5,1,12,2,1,0,8,11,2,0,"451,020",GA
+Washington,Auburn,5,1,0,3,0,1,1,1,4,4,"74,565",WA
+Michigan,Bangor,0,0,0,0,0,1,0,0,0,1,"1,857",MI
+North_Dakota,Bismarck,0,0,1,5,0,0,3,0,2,1,"65,850",ND
+Massachusetts,Boston,73,21,53,15,0,3,39,56,40,30,"643,799",MA
+New_York,Buffalo,11,1,2,2,0,1,6,3,4,4,"258,789",NY
+Ohio,Butler,3,0,3,0,2,0,3,2,1,2,921,OH
+North_Carolina,Charlotte-Mecklenburg,8,4,6,3,0,0,10,4,2,5,"837,638",NC
+Illinois,Chicago,22,2,18,3,0,0,11,10,15,9,"2,720,554",IL
+Ohio,Cincinnati,9,0,1,5,1,0,4,0,2,10,"296,491",OH
+Tennessee,Clarksville,0,0,5,6,0,0,1,2,0,8,"145,599",TN
+Georgia,Cobb County,19,3,2,3,0,0,1,12,8,6,"717,190",GA
+Ohio,Columbus,88,4,17,15,12,0,8,22,60,46,"816,364",OH
+Tennessee,Covington,1,0,0,12,4,0,3,1,5,8,"9,076",TN
+New_York,Croton-on-Hudson Village,0,0,0,0,0,1,0,1,0,0,"8,180",NY
+California,Cupertino,0,0,0,0,0,1,0,0,0,1,"60,440",CA
+Texas,Dallas,3,2,9,4,0,0,2,4,9,3,"1,255,015",TX
+Colorado,Denver,9,5,15,1,0,0,3,13,9,5,"648,981",CO
+New_Jersey,East Brunswick,1,10,2,1,0,0,3,4,3,4,"48,073",NJ
+Michigan,East Lansing,2,0,2,0,0,1,1,0,2,2,"48,783",MI
+California,El Cerrito,0,2,1,4,0,0,3,1,2,1,"24,184",CA
+Virginia,Fairfax,7,5,0,1,0,0,3,1,5,4,"1,131,000",VA
+North_Dakota,Fargo,8,2,2,1,1,0,2,3,6,3,"111,101",ND
+Washington,Fife,0,0,0,1,0,1,0,1,1,0,"9,380",WA
+Kentucky,Florence,1,0,0,0,2,0,1,1,1,0,"31,434",KY
+Texas,Fort Worth,9,0,2,5,0,0,5,1,6,4,"789,035",TX
+California,Fresno,4,0,3,2,0,1,3,3,1,3,"508,876",CA
+Montana,Helena,11,0,0,0,0,0,11,0,0,0,"29,411",MT
+Texas,Houston,4,0,5,4,0,0,4,5,1,3,"2,180,606",TX
+New_Jersey,Howell,5,6,4,3,0,0,2,7,5,4,"51,100",NJ
+Ohio,Huber Heights,1,1,4,0,2,0,1,3,4,0,"38,118",OH
+California,Huntington Beach,0,0,0,0,0,1,0,1,0,0,"195,842",CA
+Indiana,Indianapolis,29,0,6,8,0,0,8,15,16,4,"850,220",IN
+North_Carolina,Iredell,0,5,0,0,0,0,0,2,3,0,"164,517",NC
+Tennessee,Jonesborough,0,0,0,4,1,0,0,0,2,3,"5,163",TN
+Missouri,Kansas City,30,7,14,5,1,6,13,17,21,12,"465,514",MO
+New_Jersey,Lacey Township,3,0,2,2,1,0,1,5,1,1,"27,865",NJ
+New_Jersey,Lakewood,5,15,0,3,0,0,2,6,7,8,"92,664",NJ
+Nevada,Las Vegas,27,9,23,6,0,0,16,13,18,18,"1,500,455",NV
+Kentucky,Lexington,16,1,5,4,1,0,5,10,10,2,"308,712",KY
+California,Los Angeles,41,29,33,9,0,2,21,40,25,28,"3,878,725",CA
+Massachusetts,Lynn,3,2,5,4,2,0,1,5,6,4,"91,769",MA
+Wisconsin,Madison,3,1,3,5,0,0,3,5,2,2,"242,523",WI
+Tennessee,Memphis,9,0,12,1,1,1,6,5,9,4,"657,691",TN
+Minnesota,Minneapolis,20,4,11,3,1,0,6,13,11,9,"396,206",MN
+Maryland,Montgomery,6,4,2,1,0,0,3,5,2,3,"1,107,000",MD
+New_York,Morrisville,0,0,0,0,0,1,0,1,0,0,"3,095",NY
+North_Dakota,Mountrail,1,0,0,1,3,0,0,0,1,4,"9,376",ND
+New_York,Nassau,10,28,2,3,0,0,9,16,9,9,"1,352,000",NY
+New_York,New York,44,152,99,17,1,1,56,84,81,93,"8,396,126",NY
+West_Virginia,Oak Hill,14,0,0,0,0,0,0,6,8,0,"7,709",WV
+Washington,Omak,0,0,1,1,1,0,2,1,0,0,"4,801",WA
+Pennsylvania,Philadelphia,14,1,0,1,0,0,3,11,1,1,"1,553,153",PA
+Arizona,Phoenix,40,12,14,14,1,0,25,21,35,,"1,502,139",AZ
+Pennsylvania,Pittsburgh,12,0,3,0,0,0,1,3,8,3,"307,632",PA
+New_York,Poughkeepsie,0,0,0,2,1,1,2,1,0,1,"30,778",NY
+New_York,Putnam,0,0,0,0,0,1,0,0,1,0,"99,645",NY
+California,Riverside,11,1,1,2,0,1,7,4,0,5,"316,423",CA
+California,Sacramento,6,2,6,2,0,0,2,5,6,3,"478,182",CA
+Missouri,Saint Louis,4,1,7,0,0,0,3,2,2,5,"318,563",MO
+Texas,San Antonio,3,0,7,1,0,0,3,3,3,2,"1,399,725",TX
+California,San Bernardino,2,0,1,2,0,1,1,0,3,2,"213,708",CA
+California,San Diego,18,12,12,1,0,0,7,10,17,9,"1,349,306",CA
+California,San Francisco,7,3,13,1,0,0,4,8,8,4,"833,863",CA
+California,San Jose,6,2,6,1,0,0,7,1,2,5,"992,143",CA
+New_York,Schodack Town,0,0,0,0,0,1,0,0,1,0,"11,573",NY
+Washington,Seattle,50,14,14,6,3,2,19,23,29,18,"642,814",WA
+Tennessee,Shelby,5,1,3,36,1,0,2,7,20,17,"939,465",TN
+Connecticut,Southington,1,0,0,6,0,0,3,2,2,0,"43,542",CT
+Washington,Spokane,1,0,1,3,1,0,0,2,1,3,"210,721",WA
+Minnesota,St. Paul,24,4,2,0,0,0,0,18,11,1,"294,690",MN
+Connecticut,Stamford,1,2,2,2,1,0,2,2,1,3,"125,876",CT
+New_York,Suffolk,26,50,7,4,0,0,11,33,22,21,"1,500,000",NY
+Arizona,Tucson,13,6,6,1,0,0,8,8,6,4,"525,486",AZ
+California,Union City,1,0,0,4,0,0,1,3,1,0,"72,480",CA
+DC,Washington,18,6,31,3,0,12,19,21,20,10,"646,449",DC
+California,Westminster,1,1,1,1,1,0,1,1,1,2,"91,885",CA
+Kansas,Wichita,10,0,3,1,0,0,4,4,4,2,"386,486",KS
+South_Carolina,Winnsboro,0,6,0,0,0,0,2,3,0,1,"3,428",SC
+New_York,Yonkers,1,3,1,0,0,1,2,0,3,2,"199,134",NY
